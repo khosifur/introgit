@@ -1,1 +1,1 @@
-console.timeLog('new')
+const bebas = "bebas "
