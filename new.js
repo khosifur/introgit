@@ -1,1 +1,1 @@
-console.timeLog('new')
+var bebas = 'bebas'
