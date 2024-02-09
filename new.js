@@ -1,1 +1,1 @@
-const bebas = "bebas "
+var bebas = 'bebas'
